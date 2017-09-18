@@ -1,4 +1,4 @@
-public class raetsel {
+public class prime {
 
 
     public static int a;
@@ -7,7 +7,7 @@ public class raetsel {
 
     {
 
-        all(100000);
+        all(10000);
     }
 
     static void all (int y)
